@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel Rating="4.2">
+    <Name>Westin Tempe</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Aria Resort and Casino</Name>
+    <Phone>866-359-7757</Phone>
+    <Address NearestAirport="LAS">
+      <Number>3730</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89158</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Marriott Marquis</Name>
+    <Phone>212-398-1900</Phone>
+    <Address NearestAirport="JFK">
+      <Number>1535</Number>
+      <Street>Broadway</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10036</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>InterContinental SF</Name>
+    <Phone>415-616-6500</Phone>
+    <Address NearestAirport="SFO">
+      <Number>888</Number>
+      <Street>Howard St</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94103</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>W Washington D.C.</Name>
+    <Phone>202-661-2400</Phone>
+    <Address NearestAirport="DCA">
+      <Number>515</Number>
+      <Street>15th St NW</Street>
+      <City>Washington</City>
+      <State>DC</State>
+      <Zip>20004</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.7">
+    <Name>Hyatt Regency Chicago</Name>
+    <Phone>312-565-1234</Phone>
+    <Address NearestAirport="ORD">
+      <Number>151</Number>
+      <Street>E Wacker Dr</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60601</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Omni Hotel Dallas</Name>
+    <Phone>214-744-6664</Phone>
+    <Address NearestAirport="DFW">
+      <Number>555</Number>
+      <Street>S Lamar St</Street>
+      <City>Dallas</City>
+      <State>TX</State>
+      <Zip>75202</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Loews Miami Beach</Name>
+    <Phone>305-604-1601</Phone>
+    <Address NearestAirport="MIA">
+      <Number>1601</Number>
+      <Street>Collins Ave</Street>
+      <City>Miami Beach</City>
+      <State>FL</State>
+      <Zip>33139</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>JW Marriott Austin</Name>
+    <Phone>512-474-4777</Phone>
+    <Address NearestAirport="AUS">
+      <Number>110</Number>
+      <Street>E 2nd St</Street>
+      <City>Austin</City>
+      <State>TX</State>
+      <Zip>78701</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>The Peabody Memphis</Name>
+    <Phone>901-529-4000</Phone>
+    <Address NearestAirport="MEM">
+      <Number>149</Number>
+      <Street>Union Ave</Street>
+      <City>Memphis</City>
+      <State>TN</State>
+      <Zip>38103</Zip>
+    </Address>
+  </Hotel>
+</Hotels>

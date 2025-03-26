@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ERROR #1: Wrong root element name -->
+<Hotel>
+  <!-- ERROR #2: Missing required attribute NearestAirport -->
+  <Hotel Rating="4.5">
+    <Name>Aria Resort & Casino</Name>
+    <Phone>866-359-7757</Phone>
+    <Address>
+      <Number>3730</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89158</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- ERROR #3: Phone element missing -->
+  <Hotel>
+    <Name>Marriott Marquis</Name>
+    <Address NearestAirport="JFK">
+      <Number>1535</Number>
+      <Street>Broadway</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10036</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- ERROR #4: Address tag is never closed -->
+  <Hotel Rating="4.6">
+    <Name>InterContinental SF</Name>
+    <Phone>415-616-6500</Phone>
+    <Address NearestAirport="SFO">
+      <Number>888</Number>
+      <Street>Howard St</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94103</Zip>
+    <!-- Missing </Address> tag -->
+  </Hotel>
+
+  <!-- ERROR #5: Duplicate <Name> tags -->
+  <Hotel Rating="4.0">
+    <Name>The Peabody Memphis</Name>
+    <Name>Duplicate Hotel Name</Name>
+    <Phone>901-529-4000</Phone>
+    <Address NearestAirport="MEM">
+      <Number>149</Number>
+      <Street>Union Ave</Street>
+      <City>Memphis</City>
+      <State>TN</State>
+      <Zip>38103</Zip>
+    </Address>
+  </Hotel>
+</Hotel>
