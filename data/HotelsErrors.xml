@@ -3,7 +3,7 @@
 <Hotel>
   <!-- ERROR #2: Missing required attribute NearestAirport -->
   <Hotel Rating="4.5">
-    <Name>Aria Resort & Casino</Name>
+    <Name>Aria Resort and Casino</Name>
     <Phone>866-359-7757</Phone>
     <Address>
       <Number>3730</Number>
