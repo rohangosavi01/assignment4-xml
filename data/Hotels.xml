@@ -120,4 +120,16 @@
       <Zip>38103</Zip>
     </Address>
   </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>New York New York Hotel and Casino</Name>
+    <Phone>866-815-4365</Phone>
+    <Address NearestAirport="LAS">
+      <Number>3790</Number>
+      <Street>S Las Vegas Blvd</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
 </Hotels>
