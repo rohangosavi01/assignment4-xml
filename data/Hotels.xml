@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
   <Hotel Rating="4.2">
-    <Name>Westin Tempe</Name>
+    <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearestAirport="Sky Habor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
